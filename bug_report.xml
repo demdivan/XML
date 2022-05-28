@@ -1,7 +1,7 @@
 <id> identifation number </id>
 <Title> Answer the qestions : What? Where? In what way? </Title>
 <Steps to reproduce> Information how user check some functionality </Steps to reproduce>
-<Severity> How deffect is apply to functionality </Severity>
+<Severity> How defect is influence to functionality </Severity>
 <Priority> How quickley developers must fix the bug </Priority>
 <Expected result> What user is expected from the request </Expected result>
 <Actual result> What response user is recieve actuality </Actual result>
